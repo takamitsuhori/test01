@@ -1,0 +1,25 @@
+■YDN HTML修正
+
+JIRA
+https://jira.corp.yahoo.co.jp/browse/FINCRETEAM-152
+コンフル
+http://cptl.corp.yahoo.co.jp/pages/viewpage.action?pageId=1256915174
+デザインサーバー
+http://design3.settle.cc1.ynwm.yahoo.co.jp/finance/t-thori/YDN%20html/
+
+クラス名の修正がまだ終わっていません。
+クラス名が決まったら、デザインサーバーのhtmlとcssを修正してください。
+また、コンフルの「修正済みHTMLのソース」にソースをペーストしてください。
+
+
+
+
+■AOSSL対応
+
+JIRA
+https://jira.corp.yahoo.co.jp/browse/FINCRETEAM-111
+修正リスト
+smb://yjfs.corp.yahoo.co.jp/doc/finance/90 仕掛中/AOSSL/FinAosslJsCssList.xlsx
+
+エクセルのC列がNGになっている箇所を、E列の内容に沿って修正してください。
+ただし、NGになっていても「不要」になっている箇所は修正しなくて大丈夫です。
